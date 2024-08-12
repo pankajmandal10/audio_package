@@ -11,17 +11,19 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+# My Audio Player
+
+A Flutter package for playing audio files with customizable controls and playback options.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+- Play audio from various sources
+- Control playback with customizable controls
+- Handle audio sessions effectively
 
-## Getting started
+## Getting Started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+To use this package, add `my_audio_player` as a dependency in your `pubspec.yaml` file.
 
 ## Usage
 
